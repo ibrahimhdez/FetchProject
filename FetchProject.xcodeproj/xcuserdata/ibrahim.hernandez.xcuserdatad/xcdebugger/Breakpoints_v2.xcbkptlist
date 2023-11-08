@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "87637655-C088-4B85-93DB-D84457A2261B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14DCF284-5232-4A24-9B30-D5E60C618AE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchProject/View/MealView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(meal:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14DCF284-5232-4A24-9B30-D5E60C618AE5 - b1565d709f543948"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FetchProject.MealView.init(meal: Swift.Optional&lt;FetchProject.Meal&gt;) -&gt; FetchProject.MealView"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/View/MealView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "14DCF284-5232-4A24-9B30-D5E60C618AE5 - c5fa17e25d1d0f45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FetchProject.MealView.init(meal: FetchProject.Meal) -&gt; FetchProject.MealView"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/View/MealView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "14DCF284-5232-4A24-9B30-D5E60C618AE5 - c5fa17e25d1d0f22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FetchProject.MealView.init(meal: FetchProject.Meal) -&gt; FetchProject.MealView"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/View/MealView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77AE26EF-F8ED-496F-B736-E34475AF4000"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchProject/ViewModel/FetchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "fetchData(_:urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96785E0F-C3BB-4091-88F9-8BE5E7CF6116"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchProject/View/MealView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "init(meal:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "075102F0-B5A7-4824-AE35-EC42A0CB9F41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchProject/ViewModel/FetchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "fetchData(_:urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BACD727-1EA1-447C-84F3-2D55CE15BD78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchProject/ViewModel/FetchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchMealDetails(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0BACD727-1EA1-447C-84F3-2D55CE15BD78 - 84d7cd4ad7329333"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 (Swift.Result&lt;FetchProject.MealsDetails, Swift.Error&gt;) -&gt; () in FetchProject.FetchViewModel.fetchMealDetails(for: Swift.Optional&lt;Swift.String&gt;) async -&gt; ()"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/ViewModel/FetchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "0BACD727-1EA1-447C-84F3-2D55CE15BD78 - 84d7cd4ad7329333"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 (Swift.Result&lt;FetchProject.MealsDetails, Swift.Error&gt;) -&gt; () in FetchProject.FetchViewModel.fetchMealDetails(for: Swift.Optional&lt;Swift.String&gt;) async -&gt; ()"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/ViewModel/FetchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8A32260-2A36-43CF-8FDA-C9E353D2B550"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchProject/ViewModel/FetchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchMealDetails(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C8A32260-2A36-43CF-8FDA-C9E353D2B550 - 52d84ede72e89d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FetchProject.MealsDetails, Swift.Error&gt;) -&gt; () in FetchProject.FetchViewModel.fetchMealDetails(for: Swift.Optional&lt;Swift.String&gt;) async -&gt; ()"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/ViewModel/FetchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "C8A32260-2A36-43CF-8FDA-C9E353D2B550 - 52d84ede72e89d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FetchProject.MealsDetails, Swift.Error&gt;) -&gt; () in FetchProject.FetchViewModel.fetchMealDetails(for: Swift.Optional&lt;Swift.String&gt;) async -&gt; ()"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/ViewModel/FetchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "C8A32260-2A36-43CF-8FDA-C9E353D2B550 - 52d84ede72e89d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FetchProject.MealsDetails, Swift.Error&gt;) -&gt; () in FetchProject.FetchViewModel.fetchMealDetails(for: Swift.Optional&lt;Swift.String&gt;) async -&gt; ()"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/ViewModel/FetchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "C8A32260-2A36-43CF-8FDA-C9E353D2B550 - 52d84ede72e89d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FetchProject.MealsDetails, Swift.Error&gt;) -&gt; () in FetchProject.FetchViewModel.fetchMealDetails(for: Swift.Optional&lt;Swift.String&gt;) async -&gt; ()"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/ViewModel/FetchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71E78380-068E-499C-8185-B148673B0BF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchProject/View/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "71E78380-068E-499C-8185-B148673B0BF6 - 538198dbb0bf50ea"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in FetchProject.ContentView.body.getter : some"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/View/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "71E78380-068E-499C-8185-B148673B0BF6 - 838a1e6bdf4a622e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in FetchProject.ContentView.body.getter : some"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/View/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "71E78380-068E-499C-8185-B148673B0BF6 - b311484ac29414e8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in FetchProject.ContentView.body.getter : some"
+                  moduleName = "FetchProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahim.hernandez/Desktop/FetchProject/FetchProject/View/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
